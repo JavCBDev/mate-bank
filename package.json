@@ -1,6 +1,7 @@
 {
   "name": "mate-bank",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "author": "JavCBDev",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
